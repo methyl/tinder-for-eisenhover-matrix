@@ -1,0 +1,7 @@
+{
+  "galaxy.meteor.com": {
+    "env": {
+      "MONGO_URL": "mongodb://planner:planner@ds137191.mlab.com:37191/planner"
+    }
+  }
+}
